@@ -1,6 +1,6 @@
 # Simon Says Game 🎮
 
-A browser-based Simon Says memory game built with HTML, CSS, and vanilla JavaScript.  
+A browser-based Simon Says memory game built with HTML, CSS, and JavaScript.  
 This project was created while learning JavaScript and focuses on understanding core concepts through hands-on practice.
 
 ---
